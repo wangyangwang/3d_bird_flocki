@@ -7,5 +7,7 @@ Used the <a href="http://extrapixel.github.io/gif-animation/">ProcessingGif <a/>
 
 each bird is a imported gif image.
 
+Still in the early stage, weird movement...
+
 
 
