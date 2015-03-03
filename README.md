@@ -10,4 +10,9 @@ each bird is a imported gif image.
 Still in the early stage, weird movement...
 
 
+2015/3/3 UPDATE:
+I found a well-written 3D birds flocking sketch, used WEBGL library Three.js, check it out!
+http://threejs.org/examples/#webgl_gpgpu_birds
+
+
 
